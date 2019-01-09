@@ -1,0 +1,2 @@
+# autoGitMergeOrTag
+auto git tag .
